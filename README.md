@@ -1,6 +1,6 @@
-## Smart Contract-based Dynamic Consent Management System for Personal Data Usage under GDPR
+## SC-DCMS
 
-This repository contains three core smart contracts for the SC-DCMS (Smart contract-based Dynamic Consent Management under GDPR)
+This repository contains three core smart contracts for the SC-DCMS (Smart contract-based Dynamic Consent Management)
 
 ### Prequisites
 - git
