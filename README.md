@@ -1,11 +1,12 @@
 ## SC-DCMS
 
-This repository contains three core smart contracts for the SC-DCMS (Smart contract-based Dynamic Consent Management System)
+This repository contains three core smart contracts for the SC-DCMS (Smart contract-based Dynamic Consent Management System).
 
 ### Prequisites
 - git
 - curl
-- nodejs and mpn
+- nodejs and npm
+- Docker and Docker-compose
 - Operational Quorum Blockchain network
 
 ### Quorum blockchain network deployment
@@ -17,7 +18,7 @@ This repository contains three core smart contracts for the SC-DCMS (Smart contr
 - Cakeshop provides a Sandbox tool to compile and deploy solidity smart contracts in private and public modes.
 
 ### Testing smart contract using Cakeshop
-Cakeshop contract management dashboard can be used to for testing deployed smart contracts and explore the transactions recorded in the blockchain. 
+Cakeshop contract management dashboard can be used to for testing deployed smart contracts and explore the transactions recorded in the blockchain.
 
 ##
 ### iBELab - Intelligent Blockchain Engineering Lab.
