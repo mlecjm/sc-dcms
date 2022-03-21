@@ -1,6 +1,7 @@
 ## SC-DCMS
 
 This repository contains three core smart contracts for the SC-DCMS (Smart contract-based Dynamic Consent Management System).
+![DynamicConsentConcept](https://www.mdpi.com/sensors/sensors-21-07994/article_deploy/html/images/sensors-21-07994-g001.png)
 
 ### Prequisites
 - git
@@ -21,5 +22,8 @@ This repository contains three core smart contracts for the SC-DCMS (Smart contr
 Cakeshop contract management dashboard can be used to for testing deployed smart contracts and explore the transactions recorded in the blockchain.
 
 ##
+### Publication
+Merlec, M.M.; Lee, Y.K.; Hong, S.-P.; In, H.P.[A Smart Contract-Based Dynamic Consent Management System for Personal Data Usage under GDPR.](https://doi.org/10.3390/s21237994) Sensors 2021, 21, 7994. https://doi.org/10.3390/s21237994
+
 ### iBELab - Intelligent Blockchain Engineering Lab.
 https://ibel.korea.ac.kr/ - Korea University
