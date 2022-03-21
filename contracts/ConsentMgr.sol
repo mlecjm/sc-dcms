@@ -7,8 +7,8 @@ pragma solidity >=0.4.16 <0.8.0;
 /*
 *@Title :  Dynamic Consent Managment Smart Contract
 *   	   Developed by Merlec Mpyana M.
-* 	Email: mlecjm(a)korea.ac.kr
-*	Intelligent Blockchain Engineering Lab, Korea University
+* 	   Email: mlecjm(a)korea.ac.kr
+*	   Intelligent Blockchain Engineering Lab, Korea University
 */
 
 contract ConsentAgreementMgr{
