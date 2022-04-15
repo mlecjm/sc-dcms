@@ -4,7 +4,7 @@ This repository contains three core smart contracts for the SC-DCMS (Smart contr
 ![Dynamic Consent Concept](https://www.mdpi.com/sensors/sensors-21-07994/article_deploy/html/images/sensors-21-07994-g001.png)
 
 ### Prequisites
-- git
+- [git](https://git-scm.com/downloads)
 - curl
 - nodejs and npm
 - Docker and Docker-compose
